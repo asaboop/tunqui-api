@@ -80,7 +80,7 @@ const Tabla = (props) => {
   };
 
   return (
-    <div className="container mt-8 w-2/3 mx-auto border-2 border-gray-500 bg-white rounded-2xl overflow-hidden shadow-2xl ">
+    <div className="container mb-4 mt-8 w-2/3 mx-auto border-2 border-gray-500 bg-white rounded-2xl overflow-hidden shadow-2xl ">
       <div className="header bg-gray-300 p-4">
         <h1 className="title text-xl font-semibold">
           Casos de covid a la fecha de {dia + "-" + mes + "-" + año}
